@@ -4,7 +4,13 @@ body {
 
 .container {
   padding-top: 30px;
+  text-align: center;
 } 
+
+a {
+  text-decoration: none;
+  color: white;
+}
   
 h1 {
   color: #fff;
@@ -33,7 +39,7 @@ form {
   position: relative;
   background-color: #676264;
   padding: 20px 80px;
-  margin: 0 auto;
+  margin: 10px auto;
   border-radius: 20px;
   box-shadow: 0 6px #2E282A;
 }
